@@ -17,3 +17,5 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 1. Cereal
 2. Milk
+
+EXERCISE COMPLETE
