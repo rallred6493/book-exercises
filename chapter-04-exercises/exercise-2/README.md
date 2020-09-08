@@ -6,5 +6,5 @@ In your `README.md` document, make a three column table of the current courses y
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 |**Course Number**| _Course Title_ | Instructor Name |
-|:----------------|:---------------|:----------------|
-| CS445           | Databases      | Nina            |
+|:----------------|:-------|:----------------|
+| **CS445**| _Databases_ | Nina   |
